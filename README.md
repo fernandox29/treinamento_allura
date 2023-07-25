@@ -8,6 +8,6 @@
  npm instal react
  ```
  ```
- Teste Fernando
+ Teste Fernando - Alura
  ```
  
